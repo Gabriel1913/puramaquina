@@ -132,7 +132,7 @@ nav{
   justify-content: space-between;
   align-items: center;
   max-width:1000px;
-  height:inherit;
+  height:inherit; 
   overflow: hidden;
 }
 
@@ -181,7 +181,7 @@ nav .enlaces a:hover{
 }
 
 .textos>h2{
-  font-size: 35px;
+  font-size: 30px;
   text-shadow: 3px 3px #000;
   font-weight: 400;
   color:#fff;
